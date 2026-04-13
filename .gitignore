@@ -9,6 +9,13 @@ wheels/
 # Virtual environments
 .venv
 
+#test files
+tests/
 
 #environment variables
 .env
+
+#logs
+logs/
+
+generated_resumes/
